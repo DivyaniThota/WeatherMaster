@@ -9,19 +9,19 @@ Weather Master enables users to obtain real-time weather information based on th
 
 TECHNOLOGIES USED:
 ---
-Xcode
+* Xcode
 
-Swift
+* Swift
 
-UIKit
+* UIKit
 
-OpenWeather API
+* OpenWeather API
 
 FEATURES:
 ---
 Designed with dark mode support and vector assets.
 Utilizes UITextField for user input.
-Integrates with OpenWeather API using URLSession for HTTP requests.
+Integrates with OpenWeather API by making HTTP requests using URLSession.
 Employs JSONDecoder for parsing the JSON data into Swift objects.
 Leverages CoreLocation to obtain GPS coordinates.
 
