@@ -19,11 +19,15 @@ TECHNOLOGIES USED:
 
 FEATURES:
 ---
-Designed with dark mode support and vector assets.
-Utilizes UITextField for user input.
-Integrates with OpenWeather API by making HTTP requests using URLSession.
-Employs JSONDecoder for parsing the JSON data into Swift objects.
-Leverages CoreLocation to obtain GPS coordinates.
+* Designed with dark mode support and vector assets.
+  
+* Utilizes UITextField for user input.
+  
+* Integrates with OpenWeather API by making HTTP requests using URLSession.
+  
+* Employs JSONDecoder for parsing the JSON data into Swift objects.
+  
+* Leverages CoreLocation to obtain GPS coordinates.
 
 SCREENSHOTS:
 ---
