@@ -1,4 +1,4 @@
-                                                                          WEATHER MASTER
+                                                                    WEATHER MASTER
 GOAL:
 
 The objective of this app is to retrieve live weather data using the OpenWeather API and display it on the screen, complemented by SF symbols.
@@ -24,3 +24,4 @@ Leverages CoreLocation to obtain GPS coordinates.
 
 SCREENSHOTS:
 
+<img width="387" alt="Screenshot 2024-08-10 at 7 17 03 PM" src="https://github.com/user-attachments/assets/0b15f9ea-757f-41f8-9ef0-ca582fa843ae">
