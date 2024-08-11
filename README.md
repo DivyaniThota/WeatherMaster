@@ -33,11 +33,11 @@ SCREENSHOTS:
 ---
 <img width="195" alt="Screenshot 2024-08-10 at 7 17 03 PM" src="https://github.com/user-attachments/assets/55fe6226-94be-4182-82eb-7928f71fe3a1">
 
-<img width="202" alt="Screenshot 2024-08-10 at 7 22 06 PM" src="https://github.com/user-attachments/assets/0380ada5-6c31-47b8-a557-3b6d76894395">
+<img width="201" alt="Screenshot 2024-08-10 at 7 22 06 PM" src="https://github.com/user-attachments/assets/0380ada5-6c31-47b8-a557-3b6d76894395">
 
 <img width="199" alt="Screenshot 2024-08-10 at 7 22 36 PM" src="https://github.com/user-attachments/assets/6fb8b1bb-61f3-4122-8397-67fcfa3c1a18">
 
-<img width="192" alt="Screenshot 2024-08-10 at 7 35 31 PM" src="https://github.com/user-attachments/assets/10c19789-97a8-422d-93cf-b68787272c70">
+<img width="193" alt="Screenshot 2024-08-10 at 7 35 31 PM" src="https://github.com/user-attachments/assets/10c19789-97a8-422d-93cf-b68787272c70">
 
 
 
