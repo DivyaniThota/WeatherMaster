@@ -1,7 +1,7 @@
                                                   WEATHER MASTER
 GOAL:
 ---
-The objective of this app is to retrieve live weather data using the OpenWeather API and display it on the screen, complemented by SF symbols.
+The objective of this application is to retrieve live weather data using the OpenWeather API and display it on the screen, complemented by SF symbols.
 
 OVERVIEW:
 ---
@@ -10,8 +10,11 @@ Weather Master enables users to obtain real-time weather information based on th
 TECHNOLOGIES USED:
 ---
 Xcode
+
 Swift
+
 UIKit
+
 OpenWeather API
 
 FEATURES:
